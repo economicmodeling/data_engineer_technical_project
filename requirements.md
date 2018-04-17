@@ -35,7 +35,7 @@ Most fields should simply be copied across, with two exceptions:
 # Implementation Notes
 * The code can be written in the language of your choice.
 * Your solution must run on Debian Stretch.
-* While the data sample is small enough to fit easily into memory, the implementation must be streaming, assuming must larger datasets.
+* While the data sample is small enough to fit easily into memory, the implementation must be streaming, assuming much larger datasets.
 * Either supply a Dockerfile or provide clear instructions for how to compile and run your code, along with any non-default packages required.
 * If you find these requirements to be ambiguous, go with your best guess and document your decision.
 
