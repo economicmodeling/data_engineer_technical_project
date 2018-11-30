@@ -1,0 +1,1346 @@
+child,parent,level,name
+00-0000,00-0000,1,"Total, All Occupations"
+11-0000,00-0000,2,Management Occupations
+11-1000,11-0000,3,Top Executives
+11-1010,11-1000,4,Chief Executives
+11-1011,11-1010,5,Chief Executives
+11-1020,11-1000,4,General and Operations Managers
+11-1021,11-1020,5,General and Operations Managers
+11-1030,11-1000,4,Legislators
+11-1031,11-1030,5,Legislators
+11-2000,11-0000,3,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
+11-2010,11-2000,4,Advertising and Promotions Managers
+11-2011,11-2010,5,Advertising and Promotions Managers
+11-2020,11-2000,4,Marketing and Sales Managers
+11-2021,11-2020,5,Marketing Managers
+11-2022,11-2020,5,Sales Managers
+11-2030,11-2000,4,Public Relations and Fundraising Managers
+11-2031,11-2030,5,Public Relations and Fundraising Managers
+11-3000,11-0000,3,Operations Specialties Managers
+11-3010,11-3000,4,Administrative Services Managers
+11-3011,11-3010,5,Administrative Services Managers
+11-3020,11-3000,4,Computer and Information Systems Managers
+11-3021,11-3020,5,Computer and Information Systems Managers
+11-3030,11-3000,4,Financial Managers
+11-3031,11-3030,5,Financial Managers
+11-3050,11-3000,4,Industrial Production Managers
+11-3051,11-3050,5,Industrial Production Managers
+11-3060,11-3000,4,Purchasing Managers
+11-3061,11-3060,5,Purchasing Managers
+11-3070,11-3000,4,"Transportation, Storage, and Distribution Managers"
+11-3071,11-3070,5,"Transportation, Storage, and Distribution Managers"
+11-3110,11-3000,4,Compensation and Benefits Managers
+11-3111,11-3110,5,Compensation and Benefits Managers
+11-3120,11-3000,4,Human Resources Managers
+11-3121,11-3120,5,Human Resources Managers
+11-3130,11-3000,4,Training and Development Managers
+11-3131,11-3130,5,Training and Development Managers
+11-9000,11-0000,3,Other Management Occupations
+11-9010,11-9000,4,"Farmers, Ranchers, and Other Agricultural Managers"
+11-9013,11-9010,5,"Farmers, Ranchers, and Other Agricultural Managers"
+11-9020,11-9000,4,Construction Managers
+11-9021,11-9020,5,Construction Managers
+11-9030,11-9000,4,Education Administrators
+11-9031,11-9030,5,"Education Administrators, Preschool and Childcare Center/Program"
+11-9032,11-9030,5,"Education Administrators, Elementary and Secondary School"
+11-9033,11-9030,5,"Education Administrators, Postsecondary"
+11-9039,11-9030,5,"Education Administrators, All Other"
+11-9040,11-9000,4,Architectural and Engineering Managers
+11-9041,11-9040,5,Architectural and Engineering Managers
+11-9050,11-9000,4,Food Service Managers
+11-9051,11-9050,5,Food Service Managers
+11-9060,11-9000,4,Funeral Service Managers
+11-9061,11-9060,5,Funeral Service Managers
+11-9070,11-9000,4,Gaming Managers
+11-9071,11-9070,5,Gaming Managers
+11-9080,11-9000,4,Lodging Managers
+11-9081,11-9080,5,Lodging Managers
+11-9110,11-9000,4,Medical and Health Services Managers
+11-9111,11-9110,5,Medical and Health Services Managers
+11-9120,11-9000,4,Natural Sciences Managers
+11-9121,11-9120,5,Natural Sciences Managers
+11-9130,11-9000,4,Postmasters and Mail Superintendents
+11-9131,11-9130,5,Postmasters and Mail Superintendents
+11-9140,11-9000,4,"Property, Real Estate, and Community Association Managers"
+11-9141,11-9140,5,"Property, Real Estate, and Community Association Managers"
+11-9150,11-9000,4,Social and Community Service Managers
+11-9151,11-9150,5,Social and Community Service Managers
+11-9160,11-9000,4,Emergency Management Directors
+11-9161,11-9160,5,Emergency Management Directors
+11-9190,11-9000,4,Miscellaneous Managers
+11-9199,11-9190,5,"Managers, All Other"
+13-0000,00-0000,2,Business and Financial Operations Occupations
+13-1000,13-0000,3,Business Operations Specialists
+13-1010,13-1000,4,"Agents and Business Managers of Artists, Performers, and Athletes"
+13-1011,13-1010,5,"Agents and Business Managers of Artists, Performers, and Athletes"
+13-1020,13-1000,4,Buyers and Purchasing Agents
+13-1028,13-1020,5,Buyers and Purchasing Agents
+13-1030,13-1000,4,"Claims Adjusters, Appraisers, Examiners, and Investigators"
+13-1031,13-1030,5,"Claims Adjusters, Examiners, and Investigators"
+13-1032,13-1030,5,"Insurance Appraisers, Auto Damage"
+13-1040,13-1000,4,Compliance Officers
+13-1041,13-1040,5,Compliance Officers
+13-1050,13-1000,4,Cost Estimators
+13-1051,13-1050,5,Cost Estimators
+13-1070,13-1000,4,Human Resources Workers
+13-1071,13-1070,5,Human Resources Specialists
+13-1074,13-1070,5,Farm Labor Contractors
+13-1075,13-1070,5,Labor Relations Specialists
+13-1080,13-1000,4,Logisticians
+13-1081,13-1080,5,Logisticians
+13-1110,13-1000,4,Management Analysts
+13-1111,13-1110,5,Management Analysts
+13-1120,13-1000,4,"Meeting, Convention, and Event Planners"
+13-1121,13-1120,5,"Meeting, Convention, and Event Planners"
+13-1130,13-1000,4,Fundraisers
+13-1131,13-1130,5,Fundraisers
+13-1140,13-1000,4,"Compensation, Benefits, and Job Analysis Specialists"
+13-1141,13-1140,5,"Compensation, Benefits, and Job Analysis Specialists"
+13-1150,13-1000,4,Training and Development Specialists
+13-1151,13-1150,5,Training and Development Specialists
+13-1160,13-1000,4,Market Research Analysts and Marketing Specialists
+13-1161,13-1160,5,Market Research Analysts and Marketing Specialists
+13-1190,13-1000,4,Miscellaneous Business Operations Specialists
+13-1199,13-1190,5,"Business Operations Specialists, All Other"
+13-2000,13-0000,3,Financial Specialists
+13-2010,13-2000,4,Accountants and Auditors
+13-2011,13-2010,5,Accountants and Auditors
+13-2020,13-2000,4,Appraisers and Assessors of Real Estate
+13-2021,13-2020,5,Appraisers and Assessors of Real Estate
+13-2030,13-2000,4,Budget Analysts
+13-2031,13-2030,5,Budget Analysts
+13-2040,13-2000,4,Credit Analysts
+13-2041,13-2040,5,Credit Analysts
+13-2050,13-2000,4,Financial Analysts and Advisors
+13-2051,13-2050,5,Financial Analysts
+13-2052,13-2050,5,Personal Financial Advisors
+13-2053,13-2050,5,Insurance Underwriters
+13-2060,13-2000,4,Financial Examiners
+13-2061,13-2060,5,Financial Examiners
+13-2070,13-2000,4,Credit Counselors and Loan Officers
+13-2071,13-2070,5,Credit Counselors
+13-2072,13-2070,5,Loan Officers
+13-2080,13-2000,4,"Tax Examiners, Collectors and Preparers, and Revenue Agents"
+13-2081,13-2080,5,"Tax Examiners and Collectors, and Revenue Agents"
+13-2082,13-2080,5,Tax Preparers
+13-2090,13-2000,4,Miscellaneous Financial Specialists
+13-2099,13-2090,5,"Financial Specialists, All Other"
+15-0000,00-0000,2,Computer and Mathematical Occupations
+15-1100,15-0000,3,Computer Occupations
+15-1110,15-1100,4,Computer and Information Research Scientists
+15-1111,15-1110,5,Computer and Information Research Scientists
+15-1120,15-1100,4,Computer and Information Analysts
+15-1121,15-1120,5,Computer Systems Analysts
+15-1122,15-1120,5,Information Security Analysts
+15-1130,15-1100,4,Software Developers and Programmers
+15-1131,15-1130,5,Computer Programmers
+15-1132,15-1130,5,"Software Developers, Applications"
+15-1133,15-1130,5,"Software Developers, Systems Software"
+15-1134,15-1130,5,Web Developers
+15-1140,15-1100,4,Database and Systems Administrators and Network Architects
+15-1141,15-1140,5,Database Administrators
+15-1142,15-1140,5,Network and Computer Systems Administrators
+15-1143,15-1140,5,Computer Network Architects
+15-1150,15-1100,4,Computer Support Specialists
+15-1151,15-1150,5,Computer User Support Specialists
+15-1152,15-1150,5,Computer Network Support Specialists
+15-1190,15-1100,4,Miscellaneous Computer Occupations
+15-1199,15-1190,5,"Computer Occupations, All Other"
+15-2000,15-0000,3,Mathematical Science Occupations
+15-2010,15-2000,4,Actuaries
+15-2011,15-2010,5,Actuaries
+15-2020,15-2000,4,Mathematicians
+15-2021,15-2020,5,Mathematicians
+15-2030,15-2000,4,Operations Research Analysts
+15-2031,15-2030,5,Operations Research Analysts
+15-2040,15-2000,4,Statisticians
+15-2041,15-2040,5,Statisticians
+15-2090,15-2000,4,Miscellaneous Mathematical Science Occupations
+15-2098,15-2090,5,Miscellaneous Mathematical Science Occupations
+17-0000,00-0000,2,Architecture and Engineering Occupations
+17-1000,17-0000,3,"Architects, Surveyors, and Cartographers"
+17-1010,17-1000,4,"Architects, Except Naval"
+17-1011,17-1010,5,"Architects, Except Landscape and Naval"
+17-1012,17-1010,5,Landscape Architects
+17-1020,17-1000,4,"Surveyors, Cartographers, and Photogrammetrists"
+17-1021,17-1020,5,Cartographers and Photogrammetrists
+17-1022,17-1020,5,Surveyors
+17-2000,17-0000,3,Engineers
+17-2010,17-2000,4,Aerospace Engineers
+17-2011,17-2010,5,Aerospace Engineers
+17-2020,17-2000,4,Agricultural Engineers
+17-2021,17-2020,5,Agricultural Engineers
+17-2030,17-2000,4,Biomedical Engineers
+17-2031,17-2030,5,Biomedical Engineers
+17-2040,17-2000,4,Chemical Engineers
+17-2041,17-2040,5,Chemical Engineers
+17-2050,17-2000,4,Civil Engineers
+17-2051,17-2050,5,Civil Engineers
+17-2060,17-2000,4,Computer Hardware Engineers
+17-2061,17-2060,5,Computer Hardware Engineers
+17-2070,17-2000,4,Electrical and Electronics Engineers
+17-2071,17-2070,5,Electrical Engineers
+17-2072,17-2070,5,"Electronics Engineers, Except Computer"
+17-2080,17-2000,4,Environmental Engineers
+17-2081,17-2080,5,Environmental Engineers
+17-2110,17-2000,4,"Industrial Engineers, Including Health and Safety"
+17-2111,17-2110,5,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+17-2112,17-2110,5,Industrial Engineers
+17-2120,17-2000,4,Marine Engineers and Naval Architects
+17-2121,17-2120,5,Marine Engineers and Naval Architects
+17-2130,17-2000,4,Materials Engineers
+17-2131,17-2130,5,Materials Engineers
+17-2140,17-2000,4,Mechanical Engineers
+17-2141,17-2140,5,Mechanical Engineers
+17-2150,17-2000,4,"Mining and Geological Engineers, Including Mining Safety Engineers"
+17-2151,17-2150,5,"Mining and Geological Engineers, Including Mining Safety Engineers"
+17-2160,17-2000,4,Nuclear Engineers
+17-2161,17-2160,5,Nuclear Engineers
+17-2170,17-2000,4,Petroleum Engineers
+17-2171,17-2170,5,Petroleum Engineers
+17-2190,17-2000,4,Miscellaneous Engineers
+17-2199,17-2190,5,"Engineers, All Other"
+17-3000,17-0000,3,"Drafters, Engineering Technicians, and Mapping Technicians"
+17-3010,17-3000,4,Drafters
+17-3011,17-3010,5,Architectural and Civil Drafters
+17-3012,17-3010,5,Electrical and Electronics Drafters
+17-3013,17-3010,5,Mechanical Drafters
+17-3019,17-3010,5,"Drafters, All Other"
+17-3020,17-3000,4,"Engineering Technicians, Except Drafters"
+17-3021,17-3020,5,Aerospace Engineering and Operations Technicians
+17-3022,17-3020,5,Civil Engineering Technicians
+17-3023,17-3020,5,Electrical and Electronics Engineering Technicians
+17-3024,17-3020,5,Electro-Mechanical Technicians
+17-3025,17-3020,5,Environmental Engineering Technicians
+17-3026,17-3020,5,Industrial Engineering Technicians
+17-3027,17-3020,5,Mechanical Engineering Technicians
+17-3029,17-3020,5,"Engineering Technicians, Except Drafters, All Other"
+17-3030,17-3000,4,Surveying and Mapping Technicians
+17-3031,17-3030,5,Surveying and Mapping Technicians
+19-0000,00-0000,2,"Life, Physical, and Social Science Occupations"
+19-1000,19-0000,3,Life Scientists
+19-1010,19-1000,4,Agricultural and Food Scientists
+19-1011,19-1010,5,Animal Scientists
+19-1012,19-1010,5,Food Scientists and Technologists
+19-1013,19-1010,5,Soil and Plant Scientists
+19-1020,19-1000,4,Biological Scientists
+19-1021,19-1020,5,Biochemists and Biophysicists
+19-1022,19-1020,5,Microbiologists
+19-1023,19-1020,5,Zoologists and Wildlife Biologists
+19-1029,19-1020,5,"Biological Scientists, All Other"
+19-1030,19-1000,4,Conservation Scientists and Foresters
+19-1031,19-1030,5,Conservation Scientists
+19-1032,19-1030,5,Foresters
+19-1040,19-1000,4,Medical Scientists
+19-1041,19-1040,5,Epidemiologists
+19-1042,19-1040,5,"Medical Scientists, Except Epidemiologists"
+19-1090,19-1000,4,Miscellaneous Life Scientists
+19-1099,19-1090,5,"Life Scientists, All Other"
+19-2000,19-0000,3,Physical Scientists
+19-2010,19-2000,4,Astronomers and Physicists
+19-2011,19-2010,5,Astronomers
+19-2012,19-2010,5,Physicists
+19-2020,19-2000,4,Atmospheric and Space Scientists
+19-2021,19-2020,5,Atmospheric and Space Scientists
+19-2030,19-2000,4,Chemists and Materials Scientists
+19-2031,19-2030,5,Chemists
+19-2032,19-2030,5,Materials Scientists
+19-2040,19-2000,4,Environmental Scientists and Geoscientists
+19-2041,19-2040,5,"Environmental Scientists and Specialists, Including Health"
+19-2042,19-2040,5,"Geoscientists, Except Hydrologists and Geographers"
+19-2043,19-2040,5,Hydrologists
+19-2090,19-2000,4,Miscellaneous Physical Scientists
+19-2099,19-2090,5,"Physical Scientists, All Other"
+19-3000,19-0000,3,Social Scientists and Related Workers
+19-3010,19-3000,4,Economists
+19-3011,19-3010,5,Economists
+19-3020,19-3000,4,Survey Researchers
+19-3022,19-3020,5,Survey Researchers
+19-3030,19-3000,4,Psychologists
+19-3031,19-3030,5,"Clinical, Counseling, and School Psychologists"
+19-3032,19-3030,5,Industrial-Organizational Psychologists
+19-3039,19-3030,5,"Psychologists, All Other"
+19-3040,19-3000,4,Sociologists
+19-3041,19-3040,5,Sociologists
+19-3050,19-3000,4,Urban and Regional Planners
+19-3051,19-3050,5,Urban and Regional Planners
+19-3090,19-3000,4,Miscellaneous Social Scientists and Related Workers
+19-3091,19-3090,5,Anthropologists and Archaeologists
+19-3092,19-3090,5,Geographers
+19-3093,19-3090,5,Historians
+19-3094,19-3090,5,Political Scientists
+19-3099,19-3090,5,"Social Scientists and Related Workers, All Other"
+19-4000,19-0000,3,"Life, Physical, and Social Science Technicians"
+19-4010,19-4000,4,Agricultural and Food Science Technicians
+19-4011,19-4010,5,Agricultural and Food Science Technicians
+19-4020,19-4000,4,Biological Technicians
+19-4021,19-4020,5,Biological Technicians
+19-4030,19-4000,4,Chemical Technicians
+19-4031,19-4030,5,Chemical Technicians
+19-4040,19-4000,4,Geological and Petroleum Technicians
+19-4041,19-4040,5,Geological and Petroleum Technicians
+19-4050,19-4000,4,Nuclear Technicians
+19-4051,19-4050,5,Nuclear Technicians
+19-4060,19-4000,4,Social Science Research Assistants
+19-4061,19-4060,5,Social Science Research Assistants
+19-4090,19-4000,4,"Miscellaneous Life, Physical, and Social Science Technicians"
+19-4091,19-4090,5,"Environmental Science and Protection Technicians, Including Health"
+19-4092,19-4090,5,Forensic Science Technicians
+19-4093,19-4090,5,Forest and Conservation Technicians
+19-4099,19-4090,5,"Life, Physical, and Social Science Technicians, All Other"
+21-0000,00-0000,2,Community and Social Service Occupations
+21-1000,21-0000,3,"Counselors, Social Workers, and Other Community and Social Service Specialists"
+21-1010,21-1000,4,Counselors
+21-1012,21-1010,5,"Educational, Guidance, School, and Vocational Counselors"
+21-1013,21-1010,5,Marriage and Family Therapists
+21-1015,21-1010,5,Rehabilitation Counselors
+21-1018,21-1010,5,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors"
+21-1019,21-1010,5,"Counselors, All Other"
+21-1020,21-1000,4,Social Workers
+21-1021,21-1020,5,"Child, Family, and School Social Workers"
+21-1022,21-1020,5,Healthcare Social Workers
+21-1023,21-1020,5,Mental Health and Substance Abuse Social Workers
+21-1029,21-1020,5,"Social Workers, All Other"
+21-1090,21-1000,4,Miscellaneous Community and Social Service Specialists
+21-1091,21-1090,5,Health Educators 
+21-1092,21-1090,5,Probation Officers and Correctional Treatment Specialists
+21-1093,21-1090,5,Social and Human Service Assistants
+21-1094,21-1090,5,Community Health Workers
+21-1099,21-1090,5,"Community and Social Service Specialists, All Other"
+21-2000,21-0000,3,Religious Workers
+21-2010,21-2000,4,Clergy
+21-2011,21-2010,5,Clergy
+21-2020,21-2000,4,"Directors, Religious Activities and Education"
+21-2021,21-2020,5,"Directors, Religious Activities and Education"
+21-2090,21-2000,4,Miscellaneous Religious Workers
+21-2099,21-2090,5,"Religious Workers, All Other"
+23-0000,00-0000,2,Legal Occupations
+23-1000,23-0000,3,"Lawyers, Judges, and Related Workers"
+23-1010,23-1000,4,Lawyers and Judicial Law Clerks
+23-1011,23-1010,5,Lawyers
+23-1012,23-1010,5,Judicial Law Clerks
+23-1020,23-1000,4,"Judges, Magistrates, and Other Judicial Workers"
+23-1021,23-1020,5,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+23-1022,23-1020,5,"Arbitrators, Mediators, and Conciliators"
+23-1023,23-1020,5,"Judges, Magistrate Judges, and Magistrates"
+23-2000,23-0000,3,Legal Support Workers
+23-2010,23-2000,4,Paralegals and Legal Assistants
+23-2011,23-2010,5,Paralegals and Legal Assistants
+23-2090,23-2000,4,Miscellaneous Legal Support Workers
+23-2091,23-2090,5,Court Reporters
+23-2093,23-2090,5,"Title Examiners, Abstractors, and Searchers"
+23-2099,23-2090,5,"Legal Support Workers, All Other"
+25-0000,00-0000,2,"Education, Training, and Library Occupations"
+25-1000,25-0000,3,Postsecondary Teachers
+25-1090,25-1000,4,Postsecondary Teachers
+25-1099,25-1090,5,Postsecondary Teachers
+25-2000,25-0000,3,"Preschool, Primary, Secondary, and Special Education School Teachers"
+25-2010,25-2000,4,Preschool and Kindergarten Teachers
+25-2011,25-2010,5,"Preschool Teachers, Except Special Education"
+25-2012,25-2010,5,"Kindergarten Teachers, Except Special Education"
+25-2020,25-2000,4,Elementary and Middle School Teachers
+25-2021,25-2020,5,"Elementary School Teachers, Except Special Education"
+25-2022,25-2020,5,"Middle School Teachers, Except Special and Career/Technical Education"
+25-2023,25-2020,5,"Career/Technical Education Teachers, Middle School"
+25-2030,25-2000,4,Secondary School Teachers
+25-2031,25-2030,5,"Secondary School Teachers, Except Special and Career/Technical Education"
+25-2032,25-2030,5,"Career/Technical Education Teachers, Secondary School"
+25-2050,25-2000,4,Special Education Teachers
+25-2051,25-2050,5,"Special Education Teachers, Preschool"
+25-2052,25-2050,5,"Special Education Teachers, Kindergarten and Elementary School"
+25-2053,25-2050,5,"Special Education Teachers, Middle School"
+25-2054,25-2050,5,"Special Education Teachers, Secondary School"
+25-2059,25-2050,5,"Special Education Teachers, All Other"
+25-3000,25-0000,3,Other Teachers and Instructors
+25-3010,25-3000,4,Adult Basic and Secondary Education and Literacy Teachers and Instructors 
+25-3011,25-3010,5,Adult Basic and Secondary Education and Literacy Teachers and Instructors 
+25-3020,25-3000,4,Self-Enrichment Education Teachers
+25-3021,25-3020,5,Self-Enrichment Education Teachers
+25-3090,25-3000,4,Miscellaneous Teachers and Instructors
+25-3097,25-3090,5,"Teachers and Instructors, All Other"
+25-3098,25-3090,5,Substitute Teachers
+25-4000,25-0000,3,"Librarians, Curators, and Archivists"
+25-4010,25-4000,4,"Archivists, Curators, and Museum Technicians"
+25-4011,25-4010,5,Archivists
+25-4012,25-4010,5,Curators
+25-4013,25-4010,5,Museum Technicians and Conservators
+25-4020,25-4000,4,Librarians
+25-4021,25-4020,5,Librarians
+25-4030,25-4000,4,Library Technicians
+25-4031,25-4030,5,Library Technicians
+25-9000,25-0000,3,"Other Education, Training, and Library Occupations"
+25-9010,25-9000,4,Audio-Visual and Multimedia Collections Specialists
+25-9011,25-9010,5,Audio-Visual and Multimedia Collections Specialists
+25-9020,25-9000,4,Farm and Home Management Advisors
+25-9021,25-9020,5,Farm and Home Management Advisors
+25-9030,25-9000,4,Instructional Coordinators
+25-9031,25-9030,5,Instructional Coordinators
+25-9040,25-9000,4,Teacher Assistants
+25-9041,25-9040,5,Teacher Assistants
+25-9090,25-9000,4,"Miscellaneous Education, Training, and Library Workers"
+25-9099,25-9090,5,"Education, Training, and Library Workers, All Other"
+27-0000,00-0000,2,"Arts, Design, Entertainment, Sports, and Media Occupations"
+27-1000,27-0000,3,Art and Design Workers
+27-1010,27-1000,4,Artists and Related Workers
+27-1011,27-1010,5,Art Directors
+27-1012,27-1010,5,Craft Artists
+27-1013,27-1010,5,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+27-1014,27-1010,5,Multimedia Artists and Animators
+27-1019,27-1010,5,"Artists and Related Workers, All Other"
+27-1020,27-1000,4,Designers
+27-1021,27-1020,5,Commercial and Industrial Designers
+27-1022,27-1020,5,Fashion Designers
+27-1023,27-1020,5,Floral Designers
+27-1024,27-1020,5,Graphic Designers
+27-1025,27-1020,5,Interior Designers
+27-1026,27-1020,5,Merchandise Displayers and Window Trimmers
+27-1027,27-1020,5,Set and Exhibit Designers
+27-1029,27-1020,5,"Designers, All Other"
+27-2000,27-0000,3,"Entertainers and Performers, Sports and Related Workers"
+27-2010,27-2000,4,"Actors, Producers, and Directors"
+27-2011,27-2010,5,Actors
+27-2012,27-2010,5,Producers and Directors
+27-2020,27-2000,4,"Athletes, Coaches, Umpires, and Related Workers"
+27-2021,27-2020,5,Athletes and Sports Competitors
+27-2022,27-2020,5,Coaches and Scouts
+27-2023,27-2020,5,"Umpires, Referees, and Other Sports Officials"
+27-2030,27-2000,4,Dancers and Choreographers
+27-2031,27-2030,5,Dancers
+27-2032,27-2030,5,Choreographers
+27-2040,27-2000,4,"Musicians, Singers, and Related Workers"
+27-2041,27-2040,5,Music Directors and Composers
+27-2042,27-2040,5,Musicians and Singers
+27-2090,27-2000,4,"Miscellaneous Entertainers and Performers, Sports and Related Workers"
+27-2099,27-2090,5,"Entertainers and Performers, Sports and Related Workers, All Other"
+27-3000,27-0000,3,Media and Communication Workers
+27-3010,27-3000,4,Announcers
+27-3011,27-3010,5,Radio and Television Announcers
+27-3012,27-3010,5,Public Address System and Other Announcers
+27-3020,27-3000,4,"News Analysts, Reporters and Correspondents"
+27-3021,27-3020,5,Broadcast News Analysts
+27-3022,27-3020,5,Reporters and Correspondents
+27-3030,27-3000,4,Public Relations Specialists
+27-3031,27-3030,5,Public Relations Specialists
+27-3040,27-3000,4,Writers and Editors
+27-3041,27-3040,5,Editors
+27-3042,27-3040,5,Technical Writers
+27-3043,27-3040,5,Writers and Authors
+27-3090,27-3000,4,Miscellaneous Media and Communication Workers
+27-3091,27-3090,5,Interpreters and Translators
+27-3099,27-3090,5,"Media and Communication Workers, All Other"
+27-4000,27-0000,3,Media and Communication Equipment Workers
+27-4010,27-4000,4,Broadcast and Sound Engineering Technicians and Radio Operators
+27-4011,27-4010,5,Audio and Video Equipment Technicians
+27-4012,27-4010,5,Broadcast Technicians
+27-4013,27-4010,5,Radio Operators
+27-4014,27-4010,5,Sound Engineering Technicians
+27-4020,27-4000,4,Photographers
+27-4021,27-4020,5,Photographers
+27-4030,27-4000,4,"Television, Video, and Motion Picture Camera Operators and Editors"
+27-4031,27-4030,5,"Camera Operators, Television, Video, and Motion Picture"
+27-4032,27-4030,5,Film and Video Editors
+27-4090,27-4000,4,Miscellaneous Media and Communication Equipment Workers
+27-4099,27-4090,5,"Media and Communication Equipment Workers, All Other"
+29-0000,00-0000,2,Healthcare Practitioners and Technical Occupations
+29-1000,29-0000,3,Health Diagnosing and Treating Practitioners
+29-1010,29-1000,4,Chiropractors
+29-1011,29-1010,5,Chiropractors
+29-1020,29-1000,4,Dentists
+29-1021,29-1020,5,"Dentists, General"
+29-1022,29-1020,5,Oral and Maxillofacial Surgeons
+29-1023,29-1020,5,Orthodontists
+29-1024,29-1020,5,Prosthodontists
+29-1029,29-1020,5,"Dentists, All Other Specialists"
+29-1030,29-1000,4,Dietitians and Nutritionists
+29-1031,29-1030,5,Dietitians and Nutritionists
+29-1040,29-1000,4,Optometrists
+29-1041,29-1040,5,Optometrists
+29-1050,29-1000,4,Pharmacists
+29-1051,29-1050,5,Pharmacists
+29-1060,29-1000,4,Physicians and Surgeons
+29-1061,29-1060,5,Anesthesiologists
+29-1062,29-1060,5,Family and General Practitioners
+29-1063,29-1060,5,"Internists, General"
+29-1064,29-1060,5,Obstetricians and Gynecologists
+29-1065,29-1060,5,"Pediatricians, General"
+29-1066,29-1060,5,Psychiatrists
+29-1067,29-1060,5,Surgeons
+29-1069,29-1060,5,"Physicians and Surgeons, All Other"
+29-1070,29-1000,4,Physician Assistants
+29-1071,29-1070,5,Physician Assistants
+29-1080,29-1000,4,Podiatrists
+29-1081,29-1080,5,Podiatrists
+29-1120,29-1000,4,Therapists
+29-1122,29-1120,5,Occupational Therapists
+29-1123,29-1120,5,Physical Therapists
+29-1124,29-1120,5,Radiation Therapists
+29-1125,29-1120,5,Recreational Therapists
+29-1126,29-1120,5,Respiratory Therapists
+29-1127,29-1120,5,Speech-Language Pathologists
+29-1128,29-1120,5,Exercise Physiologists
+29-1129,29-1120,5,"Therapists, All Other"
+29-1130,29-1000,4,Veterinarians
+29-1131,29-1130,5,Veterinarians
+29-1140,29-1000,4,Registered Nurses
+29-1141,29-1140,5,Registered Nurses
+29-1150,29-1000,4,Nurse Anesthetists
+29-1151,29-1150,5,Nurse Anesthetists
+29-1160,29-1000,4,Nurse Midwives
+29-1161,29-1160,5,Nurse Midwives
+29-1170,29-1000,4,Nurse Practitioners
+29-1171,29-1170,5,Nurse Practitioners
+29-1180,29-1000,4,Audiologists
+29-1181,29-1180,5,Audiologists
+29-1190,29-1000,4,Miscellaneous Health Diagnosing and Treating Practitioners
+29-1199,29-1190,5,"Health Diagnosing and Treating Practitioners, All Other"
+29-2000,29-0000,3,Health Technologists and Technicians
+29-2010,29-2000,4,Clinical Laboratory Technologists and Technicians
+29-2018,29-2010,5,Clinical Laboratory Technologists and Technicians
+29-2020,29-2000,4,Dental Hygienists
+29-2021,29-2020,5,Dental Hygienists
+29-2030,29-2000,4,Diagnostic Related Technologists and Technicians
+29-2031,29-2030,5,Cardiovascular Technologists and Technicians
+29-2032,29-2030,5,Diagnostic Medical Sonographers
+29-2033,29-2030,5,Nuclear Medicine Technologists
+29-2034,29-2030,5,Radiologic Technologists 
+29-2035,29-2030,5,Magnetic Resonance Imaging Technologists
+29-2040,29-2000,4,Emergency Medical Technicians and Paramedics
+29-2041,29-2040,5,Emergency Medical Technicians and Paramedics
+29-2050,29-2000,4,Health Practitioner Support Technologists and Technicians
+29-2051,29-2050,5,Dietetic Technicians
+29-2052,29-2050,5,Pharmacy Technicians
+29-2053,29-2050,5,Psychiatric Technicians
+29-2054,29-2050,5,Respiratory Therapy Technicians
+29-2055,29-2050,5,Surgical Technologists
+29-2056,29-2050,5,Veterinary Technologists and Technicians
+29-2057,29-2050,5,Ophthalmic Medical Technicians
+29-2060,29-2000,4,Licensed Practical and Licensed Vocational Nurses
+29-2061,29-2060,5,Licensed Practical and Licensed Vocational Nurses
+29-2070,29-2000,4,Medical Records and Health Information Technicians
+29-2071,29-2070,5,Medical Records and Health Information Technicians
+29-2080,29-2000,4,"Opticians, Dispensing"
+29-2081,29-2080,5,"Opticians, Dispensing"
+29-2090,29-2000,4,Miscellaneous Health Technologists and Technicians
+29-2091,29-2090,5,Orthotists and Prosthetists
+29-2092,29-2090,5,Hearing Aid Specialists
+29-2099,29-2090,5,"Health Technologists and Technicians, All Other"
+29-9000,29-0000,3,Other Healthcare Practitioners and Technical Occupations
+29-9010,29-9000,4,Occupational Health and Safety Specialists and Technicians
+29-9011,29-9010,5,Occupational Health and Safety Specialists
+29-9012,29-9010,5,Occupational Health and Safety Technicians
+29-9090,29-9000,4,Miscellaneous Health Practitioners and Technical Workers
+29-9091,29-9090,5,Athletic Trainers
+29-9092,29-9090,5,Genetic Counselors
+29-9099,29-9090,5,"Healthcare Practitioners and Technical Workers, All Other"
+31-0000,00-0000,2,Healthcare Support Occupations
+31-1000,31-0000,3,"Nursing, Psychiatric, and Home Health Aides"
+31-1010,31-1000,4,"Nursing, Psychiatric, and Home Health Aides"
+31-1011,31-1010,5,Home Health Aides
+31-1013,31-1010,5,Psychiatric Aides
+31-1014,31-1010,5,Nursing Assistants
+31-1015,31-1010,5,Orderlies
+31-2000,31-0000,3,Occupational Therapy and Physical Therapist Assistants and Aides
+31-2010,31-2000,4,Occupational Therapy Assistants and Aides
+31-2011,31-2010,5,Occupational Therapy Assistants
+31-2012,31-2010,5,Occupational Therapy Aides
+31-2020,31-2000,4,Physical Therapist Assistants and Aides
+31-2021,31-2020,5,Physical Therapist Assistants
+31-2022,31-2020,5,Physical Therapist Aides
+31-9000,31-0000,3,Other Healthcare Support Occupations
+31-9010,31-9000,4,Massage Therapists
+31-9011,31-9010,5,Massage Therapists
+31-9090,31-9000,4,Miscellaneous Healthcare Support Occupations
+31-9091,31-9090,5,Dental Assistants
+31-9092,31-9090,5,Medical Assistants
+31-9093,31-9090,5,Medical Equipment Preparers
+31-9094,31-9090,5,Medical Transcriptionists
+31-9095,31-9090,5,Pharmacy Aides
+31-9096,31-9090,5,Veterinary Assistants and Laboratory Animal Caretakers
+31-9097,31-9090,5,Phlebotomists
+31-9099,31-9090,5,"Healthcare Support Workers, All Other"
+33-0000,00-0000,2,Protective Service Occupations
+33-1000,33-0000,3,Supervisors of Protective Service Workers
+33-1010,33-1000,4,First-Line Supervisors of Law Enforcement Workers
+33-1011,33-1010,5,First-Line Supervisors of Correctional Officers
+33-1012,33-1010,5,First-Line Supervisors of Police and Detectives
+33-1020,33-1000,4,First-Line Supervisors of Fire Fighting and Prevention Workers
+33-1021,33-1020,5,First-Line Supervisors of Fire Fighting and Prevention Workers
+33-1090,33-1000,4,"Miscellaneous First-Line Supervisors, Protective Service Workers"
+33-1099,33-1090,5,"First-Line Supervisors of Protective Service Workers, All Other"
+33-2000,33-0000,3,Fire Fighting and Prevention Workers
+33-2010,33-2000,4,Firefighters
+33-2011,33-2010,5,Firefighters
+33-2020,33-2000,4,Fire Inspectors
+33-2021,33-2020,5,Fire Inspectors and Investigators
+33-2022,33-2020,5,Forest Fire Inspectors and Prevention Specialists
+33-3000,33-0000,3,Law Enforcement Workers
+33-3010,33-3000,4,"Bailiffs, Correctional Officers, and Jailers"
+33-3011,33-3010,5,Bailiffs
+33-3012,33-3010,5,Correctional Officers and Jailers
+33-3020,33-3000,4,Detectives and Criminal Investigators
+33-3021,33-3020,5,Detectives and Criminal Investigators
+33-3030,33-3000,4,Fish and Game Wardens
+33-3031,33-3030,5,Fish and Game Wardens
+33-3040,33-3000,4,Parking Enforcement Workers
+33-3041,33-3040,5,Parking Enforcement Workers
+33-3050,33-3000,4,Police Officers
+33-3051,33-3050,5,Police and Sheriff's Patrol Officers
+33-3052,33-3050,5,Transit and Railroad Police
+33-9000,33-0000,3,Other Protective Service Workers
+33-9010,33-9000,4,Animal Control Workers
+33-9011,33-9010,5,Animal Control Workers
+33-9020,33-9000,4,Private Detectives and Investigators
+33-9021,33-9020,5,Private Detectives and Investigators
+33-9030,33-9000,4,Security Guards and Gaming Surveillance Officers
+33-9031,33-9030,5,Gaming Surveillance Officers and Gaming Investigators
+33-9032,33-9030,5,Security Guards
+33-9090,33-9000,4,Miscellaneous Protective Service Workers
+33-9091,33-9090,5,Crossing Guards
+33-9092,33-9090,5,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+33-9093,33-9090,5,Transportation Security Screeners
+33-9099,33-9090,5,"Protective Service Workers, All Other"
+35-0000,00-0000,2,Food Preparation and Serving Related Occupations
+35-1000,35-0000,3,Supervisors of Food Preparation and Serving Workers
+35-1010,35-1000,4,Supervisors of Food Preparation and Serving Workers
+35-1011,35-1010,5,Chefs and Head Cooks
+35-1012,35-1010,5,First-Line Supervisors of Food Preparation and Serving Workers
+35-2000,35-0000,3,Cooks and Food Preparation Workers
+35-2010,35-2000,4,Cooks
+35-2011,35-2010,5,"Cooks, Fast Food"
+35-2012,35-2010,5,"Cooks, Institution and Cafeteria"
+35-2013,35-2010,5,"Cooks, Private Household"
+35-2014,35-2010,5,"Cooks, Restaurant"
+35-2015,35-2010,5,"Cooks, Short Order"
+35-2019,35-2010,5,"Cooks, All Other"
+35-2020,35-2000,4,Food Preparation Workers
+35-2021,35-2020,5,Food Preparation Workers
+35-3000,35-0000,3,Food and Beverage Serving Workers
+35-3010,35-3000,4,Bartenders
+35-3011,35-3010,5,Bartenders
+35-3020,35-3000,4,Fast Food and Counter Workers
+35-3021,35-3020,5,"Combined Food Preparation and Serving Workers, Including Fast Food"
+35-3022,35-3020,5,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+35-3030,35-3000,4,Waiters and Waitresses
+35-3031,35-3030,5,Waiters and Waitresses
+35-3040,35-3000,4,"Food Servers, Nonrestaurant"
+35-3041,35-3040,5,"Food Servers, Nonrestaurant"
+35-9000,35-0000,3,Other Food Preparation and Serving Related Workers
+35-9010,35-9000,4,Dining Room and Cafeteria Attendants and Bartender Helpers
+35-9011,35-9010,5,Dining Room and Cafeteria Attendants and Bartender Helpers
+35-9020,35-9000,4,Dishwashers
+35-9021,35-9020,5,Dishwashers
+35-9030,35-9000,4,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+35-9031,35-9030,5,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+35-9090,35-9000,4,Miscellaneous Food Preparation and Serving Related Workers
+35-9099,35-9090,5,"Food Preparation and Serving Related Workers, All Other"
+37-0000,00-0000,2,Building and Grounds Cleaning and Maintenance Occupations
+37-1000,37-0000,3,Supervisors of Building and Grounds Cleaning and Maintenance Workers
+37-1010,37-1000,4,First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers
+37-1011,37-1010,5,First-Line Supervisors of Housekeeping and Janitorial Workers
+37-1012,37-1010,5,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+37-2000,37-0000,3,Building Cleaning and Pest Control Workers
+37-2010,37-2000,4,Building Cleaning Workers
+37-2011,37-2010,5,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+37-2012,37-2010,5,Maids and Housekeeping Cleaners
+37-2019,37-2010,5,"Building Cleaning Workers, All Other"
+37-2020,37-2000,4,Pest Control Workers
+37-2021,37-2020,5,Pest Control Workers
+37-3000,37-0000,3,Grounds Maintenance Workers
+37-3010,37-3000,4,Grounds Maintenance Workers
+37-3011,37-3010,5,Landscaping and Groundskeeping Workers
+37-3012,37-3010,5,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+37-3013,37-3010,5,Tree Trimmers and Pruners
+37-3019,37-3010,5,"Grounds Maintenance Workers, All Other"
+39-0000,00-0000,2,Personal Care and Service Occupations
+39-1000,39-0000,3,Supervisors of Personal Care and Service Workers
+39-1010,39-1000,4,First-Line Supervisors of Gaming Workers
+39-1018,39-1010,5,First-Line Supervisors of Gaming Workers
+39-1020,39-1000,4,First-Line Supervisors of Personal Service Workers
+39-1021,39-1020,5,First-Line Supervisors of Personal Service Workers
+39-2000,39-0000,3,Animal Care and Service Workers
+39-2010,39-2000,4,Animal Trainers
+39-2011,39-2010,5,Animal Trainers
+39-2020,39-2000,4,Nonfarm Animal Caretakers
+39-2021,39-2020,5,Nonfarm Animal Caretakers
+39-3000,39-0000,3,Entertainment Attendants and Related Workers
+39-3010,39-3000,4,Gaming Services Workers
+39-3011,39-3010,5,Gaming Dealers
+39-3012,39-3010,5,Gaming and Sports Book Writers and Runners
+39-3019,39-3010,5,"Gaming Service Workers, All Other"
+39-3020,39-3000,4,Motion Picture Projectionists
+39-3021,39-3020,5,Motion Picture Projectionists
+39-3030,39-3000,4,"Ushers, Lobby Attendants, and Ticket Takers"
+39-3031,39-3030,5,"Ushers, Lobby Attendants, and Ticket Takers"
+39-3090,39-3000,4,Miscellaneous Entertainment Attendants and Related Workers
+39-3091,39-3090,5,Amusement and Recreation Attendants
+39-3092,39-3090,5,Costume Attendants
+39-3093,39-3090,5,"Locker Room, Coatroom, and Dressing Room Attendants"
+39-3099,39-3090,5,"Entertainment Attendants and Related Workers, All Other"
+39-4000,39-0000,3,Funeral Service Workers
+39-4010,39-4000,4,Embalmers
+39-4011,39-4010,5,Embalmers
+39-4020,39-4000,4,Funeral Attendants
+39-4021,39-4020,5,Funeral Attendants
+39-4030,39-4000,4,"Morticians, Undertakers, and Funeral Directors"
+39-4031,39-4030,5,"Morticians, Undertakers, and Funeral Directors"
+39-5000,39-0000,3,Personal Appearance Workers
+39-5010,39-5000,4,"Barbers, Hairdressers, Hairstylists and Cosmetologists"
+39-5011,39-5010,5,Barbers
+39-5012,39-5010,5,"Hairdressers, Hairstylists, and Cosmetologists"
+39-5090,39-5000,4,Miscellaneous Personal Appearance Workers
+39-5091,39-5090,5,"Makeup Artists, Theatrical and Performance"
+39-5092,39-5090,5,Manicurists and Pedicurists
+39-5093,39-5090,5,Shampooers
+39-5094,39-5090,5,Skincare Specialists
+39-6000,39-0000,3,"Baggage Porters, Bellhops, and Concierges"
+39-6010,39-6000,4,"Baggage Porters, Bellhops, and Concierges"
+39-6011,39-6010,5,Baggage Porters and Bellhops
+39-6012,39-6010,5,Concierges
+39-7000,39-0000,3,Tour and Travel Guides
+39-7010,39-7000,4,Tour and Travel Guides
+39-7018,39-7010,5,Tour and Travel Guides
+39-9000,39-0000,3,Other Personal Care and Service Workers
+39-9010,39-9000,4,Childcare Workers
+39-9011,39-9010,5,Childcare Workers
+39-9020,39-9000,4,Personal Care Aides
+39-9021,39-9020,5,Personal Care Aides
+39-9030,39-9000,4,Recreation and Fitness Workers
+39-9031,39-9030,5,Fitness Trainers and Aerobics Instructors
+39-9032,39-9030,5,Recreation Workers
+39-9040,39-9000,4,Residential Advisors
+39-9041,39-9040,5,Residential Advisors
+39-9090,39-9000,4,Miscellaneous Personal Care and Service Workers
+39-9099,39-9090,5,"Personal Care and Service Workers, All Other"
+41-0000,00-0000,2,Sales and Related Occupations
+41-1000,41-0000,3,Supervisors of Sales Workers
+41-1010,41-1000,4,First-Line Supervisors of Sales Workers
+41-1011,41-1010,5,First-Line Supervisors of Retail Sales Workers
+41-1012,41-1010,5,First-Line Supervisors of Non-Retail Sales Workers
+41-2000,41-0000,3,Retail Sales Workers
+41-2010,41-2000,4,Cashiers
+41-2011,41-2010,5,Cashiers
+41-2012,41-2010,5,Gaming Change Persons and Booth Cashiers
+41-2020,41-2000,4,Counter and Rental Clerks and Parts Salespersons
+41-2021,41-2020,5,Counter and Rental Clerks
+41-2022,41-2020,5,Parts Salespersons
+41-2030,41-2000,4,Retail Salespersons
+41-2031,41-2030,5,Retail Salespersons
+41-3000,41-0000,3,"Sales Representatives, Services"
+41-3010,41-3000,4,Advertising Sales Agents
+41-3011,41-3010,5,Advertising Sales Agents
+41-3020,41-3000,4,Insurance Sales Agents
+41-3021,41-3020,5,Insurance Sales Agents
+41-3030,41-3000,4,"Securities, Commodities, and Financial Services Sales Agents"
+41-3031,41-3030,5,"Securities, Commodities, and Financial Services Sales Agents"
+41-3040,41-3000,4,Travel Agents
+41-3041,41-3040,5,Travel Agents
+41-3090,41-3000,4,"Miscellaneous Sales Representatives, Services"
+41-3099,41-3090,5,"Sales Representatives, Services, All Other"
+41-4000,41-0000,3,"Sales Representatives, Wholesale and Manufacturing"
+41-4010,41-4000,4,"Sales Representatives, Wholesale and Manufacturing"
+41-4011,41-4010,5,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+41-4012,41-4010,5,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+41-9000,41-0000,3,Other Sales and Related Workers
+41-9010,41-9000,4,"Models, Demonstrators, and Product Promoters"
+41-9011,41-9010,5,Demonstrators and Product Promoters
+41-9012,41-9010,5,Models
+41-9020,41-9000,4,Real Estate Brokers and Sales Agents
+41-9021,41-9020,5,Real Estate Brokers
+41-9022,41-9020,5,Real Estate Sales Agents
+41-9030,41-9000,4,Sales Engineers
+41-9031,41-9030,5,Sales Engineers
+41-9040,41-9000,4,Telemarketers
+41-9041,41-9040,5,Telemarketers
+41-9090,41-9000,4,Miscellaneous Sales and Related Workers
+41-9091,41-9090,5,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+41-9099,41-9090,5,"Sales and Related Workers, All Other"
+43-0000,00-0000,2,Office and Administrative Support Occupations
+43-1000,43-0000,3,Supervisors of Office and Administrative Support Workers
+43-1010,43-1000,4,First-Line Supervisors of Office and Administrative Support Workers
+43-1011,43-1010,5,First-Line Supervisors of Office and Administrative Support Workers
+43-2000,43-0000,3,Communications Equipment Operators
+43-2010,43-2000,4,"Switchboard Operators, Including Answering Service"
+43-2011,43-2010,5,"Switchboard Operators, Including Answering Service"
+43-2020,43-2000,4,Telephone Operators
+43-2021,43-2020,5,Telephone Operators
+43-2090,43-2000,4,Miscellaneous Communications Equipment Operators
+43-2099,43-2090,5,"Communications Equipment Operators, All Other"
+43-3000,43-0000,3,Financial Clerks
+43-3010,43-3000,4,Bill and Account Collectors
+43-3011,43-3010,5,Bill and Account Collectors
+43-3020,43-3000,4,Billing and Posting Clerks
+43-3021,43-3020,5,Billing and Posting Clerks
+43-3030,43-3000,4,"Bookkeeping, Accounting, and Auditing Clerks"
+43-3031,43-3030,5,"Bookkeeping, Accounting, and Auditing Clerks"
+43-3040,43-3000,4,Gaming Cage Workers
+43-3041,43-3040,5,Gaming Cage Workers
+43-3050,43-3000,4,Payroll and Timekeeping Clerks
+43-3051,43-3050,5,Payroll and Timekeeping Clerks
+43-3060,43-3000,4,Procurement Clerks
+43-3061,43-3060,5,Procurement Clerks
+43-3070,43-3000,4,Tellers
+43-3071,43-3070,5,Tellers
+43-3090,43-3000,4,Miscellaneous Financial Clerks
+43-3099,43-3090,5,"Financial Clerks, All Other"
+43-4000,43-0000,3,Information and Record Clerks
+43-4010,43-4000,4,Brokerage Clerks
+43-4011,43-4010,5,Brokerage Clerks
+43-4020,43-4000,4,Correspondence Clerks
+43-4021,43-4020,5,Correspondence Clerks
+43-4030,43-4000,4,"Court, Municipal, and License Clerks"
+43-4031,43-4030,5,"Court, Municipal, and License Clerks"
+43-4040,43-4000,4,"Credit Authorizers, Checkers, and Clerks"
+43-4041,43-4040,5,"Credit Authorizers, Checkers, and Clerks"
+43-4050,43-4000,4,Customer Service Representatives
+43-4051,43-4050,5,Customer Service Representatives
+43-4060,43-4000,4,"Eligibility Interviewers, Government Programs"
+43-4061,43-4060,5,"Eligibility Interviewers, Government Programs"
+43-4070,43-4000,4,File Clerks
+43-4071,43-4070,5,File Clerks
+43-4080,43-4000,4,"Hotel, Motel, and Resort Desk Clerks"
+43-4081,43-4080,5,"Hotel, Motel, and Resort Desk Clerks"
+43-4110,43-4000,4,"Interviewers, Except Eligibility and Loan"
+43-4111,43-4110,5,"Interviewers, Except Eligibility and Loan"
+43-4120,43-4000,4,"Library Assistants, Clerical"
+43-4121,43-4120,5,"Library Assistants, Clerical"
+43-4130,43-4000,4,Loan Interviewers and Clerks
+43-4131,43-4130,5,Loan Interviewers and Clerks
+43-4140,43-4000,4,New Accounts Clerks
+43-4141,43-4140,5,New Accounts Clerks
+43-4150,43-4000,4,Order Clerks
+43-4151,43-4150,5,Order Clerks
+43-4160,43-4000,4,"Human Resources Assistants, Except Payroll and Timekeeping"
+43-4161,43-4160,5,"Human Resources Assistants, Except Payroll and Timekeeping"
+43-4170,43-4000,4,Receptionists and Information Clerks
+43-4171,43-4170,5,Receptionists and Information Clerks
+43-4180,43-4000,4,Reservation and Transportation Ticket Agents and Travel Clerks
+43-4181,43-4180,5,Reservation and Transportation Ticket Agents and Travel Clerks
+43-4190,43-4000,4,Miscellaneous Information and Record Clerks
+43-4199,43-4190,5,"Information and Record Clerks, All Other"
+43-5000,43-0000,3,"Material Recording, Scheduling, Dispatching, and Distributing Workers"
+43-5010,43-5000,4,Cargo and Freight Agents
+43-5011,43-5010,5,Cargo and Freight Agents
+43-5020,43-5000,4,Couriers and Messengers
+43-5021,43-5020,5,Couriers and Messengers
+43-5030,43-5000,4,Dispatchers
+43-5031,43-5030,5,"Police, Fire, and Ambulance Dispatchers"
+43-5032,43-5030,5,"Dispatchers, Except Police, Fire, and Ambulance"
+43-5040,43-5000,4,"Meter Readers, Utilities"
+43-5041,43-5040,5,"Meter Readers, Utilities"
+43-5050,43-5000,4,Postal Service Workers
+43-5051,43-5050,5,Postal Service Clerks
+43-5052,43-5050,5,Postal Service Mail Carriers
+43-5053,43-5050,5,"Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+43-5060,43-5000,4,"Production, Planning, and Expediting Clerks"
+43-5061,43-5060,5,"Production, Planning, and Expediting Clerks"
+43-5070,43-5000,4,"Shipping, Receiving, and Traffic Clerks"
+43-5071,43-5070,5,"Shipping, Receiving, and Traffic Clerks"
+43-5080,43-5000,4,Stock Clerks and Order Fillers
+43-5081,43-5080,5,Stock Clerks and Order Fillers
+43-5110,43-5000,4,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+43-5111,43-5110,5,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+43-6000,43-0000,3,Secretaries and Administrative Assistants
+43-6010,43-6000,4,Secretaries and Administrative Assistants
+43-6011,43-6010,5,Executive Secretaries and Executive Administrative Assistants
+43-6012,43-6010,5,Legal Secretaries
+43-6013,43-6010,5,Medical Secretaries
+43-6014,43-6010,5,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+43-9000,43-0000,3,Other Office and Administrative Support Workers
+43-9010,43-9000,4,Computer Operators
+43-9011,43-9010,5,Computer Operators
+43-9020,43-9000,4,Data Entry and Information Processing Workers
+43-9021,43-9020,5,Data Entry Keyers
+43-9022,43-9020,5,Word Processors and Typists
+43-9030,43-9000,4,Desktop Publishers
+43-9031,43-9030,5,Desktop Publishers
+43-9040,43-9000,4,Insurance Claims and Policy Processing Clerks
+43-9041,43-9040,5,Insurance Claims and Policy Processing Clerks
+43-9050,43-9000,4,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+43-9051,43-9050,5,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+43-9060,43-9000,4,"Office Clerks, General"
+43-9061,43-9060,5,"Office Clerks, General"
+43-9070,43-9000,4,"Office Machine Operators, Except Computer"
+43-9071,43-9070,5,"Office Machine Operators, Except Computer"
+43-9080,43-9000,4,Proofreaders and Copy Markers
+43-9081,43-9080,5,Proofreaders and Copy Markers
+43-9110,43-9000,4,Statistical Assistants
+43-9111,43-9110,5,Statistical Assistants
+43-9190,43-9000,4,Miscellaneous Office and Administrative Support Workers
+43-9199,43-9190,5,"Office and Administrative Support Workers, All Other"
+45-0000,00-0000,2,"Farming, Fishing, and Forestry Occupations"
+45-1000,45-0000,3,"Supervisors of Farming, Fishing, and Forestry Workers"
+45-1010,45-1000,4,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+45-1011,45-1010,5,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+45-2000,45-0000,3,Agricultural Workers
+45-2010,45-2000,4,Agricultural Inspectors
+45-2011,45-2010,5,Agricultural Inspectors
+45-2020,45-2000,4,Animal Breeders
+45-2021,45-2020,5,Animal Breeders
+45-2040,45-2000,4,"Graders and Sorters, Agricultural Products"
+45-2041,45-2040,5,"Graders and Sorters, Agricultural Products"
+45-2090,45-2000,4,Miscellaneous Agricultural Workers
+45-2091,45-2090,5,Agricultural Equipment Operators
+45-2092,45-2090,5,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+45-2093,45-2090,5,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+45-2099,45-2090,5,"Agricultural Workers, All Other"
+45-3000,45-0000,3,Fishing and Hunting Workers
+45-3010,45-3000,4,Fishers and Related Fishing Workers
+45-3011,45-3010,5,Fishers and Related Fishing Workers
+45-3020,45-3000,4,Hunters and Trappers
+45-3021,45-3020,5,Hunters and Trappers
+45-4000,45-0000,3,"Forest, Conservation, and Logging Workers"
+45-4010,45-4000,4,Forest and Conservation Workers
+45-4011,45-4010,5,Forest and Conservation Workers
+45-4020,45-4000,4,Logging Workers
+45-4021,45-4020,5,Fallers
+45-4022,45-4020,5,Logging Equipment Operators
+45-4023,45-4020,5,Log Graders and Scalers
+45-4029,45-4020,5,"Logging Workers, All Other"
+47-0000,00-0000,2,Construction and Extraction Occupations
+47-1000,47-0000,3,Supervisors of Construction and Extraction Workers
+47-1010,47-1000,4,First-Line Supervisors of Construction Trades and Extraction Workers
+47-1011,47-1010,5,First-Line Supervisors of Construction Trades and Extraction Workers
+47-2000,47-0000,3,Construction Trades Workers
+47-2010,47-2000,4,Boilermakers
+47-2011,47-2010,5,Boilermakers
+47-2020,47-2000,4,"Brickmasons, Blockmasons, and Stonemasons"
+47-2021,47-2020,5,Brickmasons and Blockmasons
+47-2022,47-2020,5,Stonemasons
+47-2030,47-2000,4,Carpenters
+47-2031,47-2030,5,Carpenters
+47-2040,47-2000,4,"Carpet, Floor, and Tile Installers and Finishers"
+47-2041,47-2040,5,Carpet Installers
+47-2042,47-2040,5,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+47-2043,47-2040,5,Floor Sanders and Finishers
+47-2044,47-2040,5,Tile and Marble Setters
+47-2050,47-2000,4,"Cement Masons, Concrete Finishers, and Terrazzo Workers"
+47-2051,47-2050,5,Cement Masons and Concrete Finishers
+47-2053,47-2050,5,Terrazzo Workers and Finishers
+47-2060,47-2000,4,Construction Laborers
+47-2061,47-2060,5,Construction Laborers
+47-2070,47-2000,4,Construction Equipment Operators
+47-2071,47-2070,5,"Paving, Surfacing, and Tamping Equipment Operators"
+47-2072,47-2070,5,Pile-Driver Operators
+47-2073,47-2070,5,Operating Engineers and Other Construction Equipment Operators
+47-2080,47-2000,4,"Drywall Installers, Ceiling Tile Installers, and Tapers"
+47-2081,47-2080,5,Drywall and Ceiling Tile Installers
+47-2082,47-2080,5,Tapers
+47-2110,47-2000,4,Electricians
+47-2111,47-2110,5,Electricians
+47-2120,47-2000,4,Glaziers
+47-2121,47-2120,5,Glaziers
+47-2130,47-2000,4,Insulation Workers
+47-2131,47-2130,5,"Insulation Workers, Floor, Ceiling, and Wall"
+47-2132,47-2130,5,"Insulation Workers, Mechanical"
+47-2140,47-2000,4,Painters and Paperhangers
+47-2141,47-2140,5,"Painters, Construction and Maintenance"
+47-2142,47-2140,5,Paperhangers
+47-2150,47-2000,4,"Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+47-2151,47-2150,5,Pipelayers
+47-2152,47-2150,5,"Plumbers, Pipefitters, and Steamfitters"
+47-2160,47-2000,4,Plasterers and Stucco Masons
+47-2161,47-2160,5,Plasterers and Stucco Masons
+47-2170,47-2000,4,Reinforcing Iron and Rebar Workers
+47-2171,47-2170,5,Reinforcing Iron and Rebar Workers
+47-2180,47-2000,4,Roofers
+47-2181,47-2180,5,Roofers
+47-2210,47-2000,4,Sheet Metal Workers
+47-2211,47-2210,5,Sheet Metal Workers
+47-2220,47-2000,4,Structural Iron and Steel Workers
+47-2221,47-2220,5,Structural Iron and Steel Workers
+47-2230,47-2000,4,Solar Photovoltaic Installers
+47-2231,47-2230,5,Solar Photovoltaic Installers
+47-3000,47-0000,3,"Helpers, Construction Trades"
+47-3010,47-3000,4,"Helpers, Construction Trades"
+47-3011,47-3010,5,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+47-3012,47-3010,5,Helpers--Carpenters
+47-3013,47-3010,5,Helpers--Electricians
+47-3014,47-3010,5,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+47-3015,47-3010,5,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+47-3016,47-3010,5,Helpers--Roofers
+47-3019,47-3010,5,"Helpers, Construction Trades, All Other"
+47-4000,47-0000,3,Other Construction and Related Workers
+47-4010,47-4000,4,Construction and Building Inspectors
+47-4011,47-4010,5,Construction and Building Inspectors
+47-4020,47-4000,4,Elevator Installers and Repairers
+47-4021,47-4020,5,Elevator Installers and Repairers
+47-4030,47-4000,4,Fence Erectors
+47-4031,47-4030,5,Fence Erectors
+47-4040,47-4000,4,Hazardous Materials Removal Workers
+47-4041,47-4040,5,Hazardous Materials Removal Workers
+47-4050,47-4000,4,Highway Maintenance Workers
+47-4051,47-4050,5,Highway Maintenance Workers
+47-4060,47-4000,4,Rail-Track Laying and Maintenance Equipment Operators
+47-4061,47-4060,5,Rail-Track Laying and Maintenance Equipment Operators
+47-4070,47-4000,4,Septic Tank Servicers and Sewer Pipe Cleaners
+47-4071,47-4070,5,Septic Tank Servicers and Sewer Pipe Cleaners
+47-4090,47-4000,4,Miscellaneous Construction and Related Workers
+47-4098,47-4090,5,Miscellaneous Construction and Related Workers
+47-5000,47-0000,3,Extraction Workers
+47-5010,47-5000,4,"Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining"
+47-5011,47-5010,5,"Derrick Operators, Oil and Gas"
+47-5012,47-5010,5,"Rotary Drill Operators, Oil and Gas"
+47-5013,47-5010,5,"Service Unit Operators, Oil, Gas, and Mining"
+47-5020,47-5000,4,"Earth Drillers, Except Oil and Gas"
+47-5021,47-5020,5,"Earth Drillers, Except Oil and Gas"
+47-5030,47-5000,4,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+47-5031,47-5030,5,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+47-5040,47-5000,4,Mining Machine Operators
+47-5041,47-5040,5,Continuous Mining Machine Operators
+47-5042,47-5040,5,Mine Cutting and Channeling Machine Operators
+47-5049,47-5040,5,"Mining Machine Operators, All Other"
+47-5050,47-5000,4,"Rock Splitters, Quarry"
+47-5051,47-5050,5,"Rock Splitters, Quarry"
+47-5060,47-5000,4,"Roof Bolters, Mining"
+47-5061,47-5060,5,"Roof Bolters, Mining"
+47-5070,47-5000,4,"Roustabouts, Oil and Gas"
+47-5071,47-5070,5,"Roustabouts, Oil and Gas"
+47-5080,47-5000,4,Helpers--Extraction Workers
+47-5081,47-5080,5,Helpers--Extraction Workers
+47-5090,47-5000,4,Miscellaneous Extraction Workers
+47-5099,47-5090,5,"Extraction Workers, All Other"
+49-0000,00-0000,2,"Installation, Maintenance, and Repair Occupations"
+49-1000,49-0000,3,"Supervisors of Installation, Maintenance, and Repair Workers"
+49-1010,49-1000,4,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+49-1011,49-1010,5,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+49-2000,49-0000,3,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers"
+49-2010,49-2000,4,"Computer, Automated Teller, and Office Machine Repairers"
+49-2011,49-2010,5,"Computer, Automated Teller, and Office Machine Repairers"
+49-2020,49-2000,4,Radio and Telecommunications Equipment Installers and Repairers
+49-2021,49-2020,5,"Radio, Cellular, and Tower Equipment Installers and Repairs"
+49-2022,49-2020,5,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+49-2090,49-2000,4,"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers"
+49-2091,49-2090,5,Avionics Technicians
+49-2092,49-2090,5,"Electric Motor, Power Tool, and Related Repairers"
+49-2093,49-2090,5,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+49-2094,49-2090,5,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+49-2095,49-2090,5,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+49-2096,49-2090,5,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+49-2097,49-2090,5,Electronic Home Entertainment Equipment Installers and Repairers
+49-2098,49-2090,5,Security and Fire Alarm Systems Installers
+49-3000,49-0000,3,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers"
+49-3010,49-3000,4,Aircraft Mechanics and Service Technicians
+49-3011,49-3010,5,Aircraft Mechanics and Service Technicians
+49-3020,49-3000,4,Automotive Technicians and Repairers
+49-3021,49-3020,5,Automotive Body and Related Repairers
+49-3022,49-3020,5,Automotive Glass Installers and Repairers
+49-3023,49-3020,5,Automotive Service Technicians and Mechanics
+49-3030,49-3000,4,Bus and Truck Mechanics and Diesel Engine Specialists
+49-3031,49-3030,5,Bus and Truck Mechanics and Diesel Engine Specialists
+49-3040,49-3000,4,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics
+49-3041,49-3040,5,Farm Equipment Mechanics and Service Technicians
+49-3042,49-3040,5,"Mobile Heavy Equipment Mechanics, Except Engines"
+49-3043,49-3040,5,Rail Car Repairers
+49-3050,49-3000,4,Small Engine Mechanics
+49-3051,49-3050,5,Motorboat Mechanics and Service Technicians
+49-3052,49-3050,5,Motorcycle Mechanics
+49-3053,49-3050,5,Outdoor Power Equipment and Other Small Engine Mechanics
+49-3090,49-3000,4,"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers"
+49-3091,49-3090,5,Bicycle Repairers
+49-3092,49-3090,5,Recreational Vehicle Service Technicians
+49-3093,49-3090,5,Tire Repairers and Changers
+49-9000,49-0000,3,"Other Installation, Maintenance, and Repair Occupations"
+49-9010,49-9000,4,Control and Valve Installers and Repairers
+49-9011,49-9010,5,Mechanical Door Repairers
+49-9012,49-9010,5,"Control and Valve Installers and Repairers, Except Mechanical Door"
+49-9020,49-9000,4,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+49-9021,49-9020,5,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+49-9030,49-9000,4,Home Appliance Repairers
+49-9031,49-9030,5,Home Appliance Repairers
+49-9040,49-9000,4,"Industrial Machinery Installation, Repair, and Maintenance Workers"
+49-9041,49-9040,5,Industrial Machinery Mechanics
+49-9043,49-9040,5,"Maintenance Workers, Machinery"
+49-9044,49-9040,5,Millwrights
+49-9045,49-9040,5,"Refractory Materials Repairers, Except Brickmasons"
+49-9050,49-9000,4,Line Installers and Repairers
+49-9051,49-9050,5,Electrical Power-Line Installers and Repairers
+49-9052,49-9050,5,Telecommunications Line Installers and Repairers
+49-9060,49-9000,4,Precision Instrument and Equipment Repairers
+49-9061,49-9060,5,Camera and Photographic Equipment Repairers
+49-9062,49-9060,5,Medical Equipment Repairers
+49-9063,49-9060,5,Musical Instrument Repairers and Tuners
+49-9064,49-9060,5,Watch Repairers
+49-9069,49-9060,5,"Precision Instrument and Equipment Repairers, All Other"
+49-9070,49-9000,4,"Maintenance and Repair Workers, General"
+49-9071,49-9070,5,"Maintenance and Repair Workers, General"
+49-9080,49-9000,4,Wind Turbine Service Technicians
+49-9081,49-9080,5,Wind Turbine Service Technicians
+49-9090,49-9000,4,"Miscellaneous Installation, Maintenance, and Repair Workers"
+49-9091,49-9090,5,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+49-9092,49-9090,5,Commercial Divers
+49-9093,49-9090,5,"Fabric Menders, Except Garment"
+49-9094,49-9090,5,Locksmiths and Safe Repairers
+49-9095,49-9090,5,Manufactured Building and Mobile Home Installers
+49-9096,49-9090,5,Riggers
+49-9097,49-9090,5,Signal and Track Switch Repairers
+49-9098,49-9090,5,"Helpers--Installation, Maintenance, and Repair Workers"
+49-9099,49-9090,5,"Installation, Maintenance, and Repair Workers, All Other"
+51-0000,00-0000,2,Production Occupations
+51-1000,51-0000,3,Supervisors of Production Workers
+51-1010,51-1000,4,First-Line Supervisors of Production and Operating Workers
+51-1011,51-1010,5,First-Line Supervisors of Production and Operating Workers
+51-2000,51-0000,3,Assemblers and Fabricators
+51-2010,51-2000,4,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+51-2011,51-2010,5,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+51-2020,51-2000,4,"Electrical, Electronics, and Electromechanical Assemblers"
+51-2021,51-2020,5,"Coil Winders, Tapers, and Finishers"
+51-2028,51-2020,5,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers"
+51-2030,51-2000,4,Engine and Other Machine Assemblers
+51-2031,51-2030,5,Engine and Other Machine Assemblers
+51-2040,51-2000,4,Structural Metal Fabricators and Fitters
+51-2041,51-2040,5,Structural Metal Fabricators and Fitters
+51-2090,51-2000,4,Miscellaneous Assemblers and Fabricators
+51-2091,51-2090,5,Fiberglass Laminators and Fabricators
+51-2093,51-2090,5,Timing Device Assemblers and Adjusters
+51-2098,51-2090,5,"Assemblers and Fabricators, All Other, Including Team Assemblers"
+51-3000,51-0000,3,Food Processing Workers
+51-3010,51-3000,4,Bakers
+51-3011,51-3010,5,Bakers
+51-3020,51-3000,4,"Butchers and Other Meat, Poultry, and Fish Processing Workers"
+51-3021,51-3020,5,Butchers and Meat Cutters
+51-3022,51-3020,5,"Meat, Poultry, and Fish Cutters and Trimmers"
+51-3023,51-3020,5,Slaughterers and Meat Packers
+51-3090,51-3000,4,Miscellaneous Food Processing Workers
+51-3091,51-3090,5,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+51-3092,51-3090,5,Food Batchmakers
+51-3093,51-3090,5,Food Cooking Machine Operators and Tenders
+51-3099,51-3090,5,"Food Processing Workers, All Other"
+51-4000,51-0000,3,Metal Workers and Plastic Workers
+51-4010,51-4000,4,Computer Control Programmers and Operators
+51-4011,51-4010,5,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+51-4012,51-4010,5,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+51-4020,51-4000,4,"Forming Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4021,51-4020,5,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4022,51-4020,5,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4023,51-4020,5,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4030,51-4000,4,"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic"
+51-4031,51-4030,5,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4032,51-4030,5,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4033,51-4030,5,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4034,51-4030,5,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4035,51-4030,5,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4040,51-4000,4,Machinists
+51-4041,51-4040,5,Machinists
+51-4050,51-4000,4,"Metal Furnace Operators, Tenders, Pourers, and Casters"
+51-4051,51-4050,5,Metal-Refining Furnace Operators and Tenders
+51-4052,51-4050,5,"Pourers and Casters, Metal"
+51-4060,51-4000,4,"Model Makers and Patternmakers, Metal and Plastic"
+51-4061,51-4060,5,"Model Makers, Metal and Plastic"
+51-4062,51-4060,5,"Patternmakers, Metal and Plastic"
+51-4070,51-4000,4,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4071,51-4070,5,Foundry Mold and Coremakers
+51-4072,51-4070,5,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4080,51-4000,4,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4081,51-4080,5,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4110,51-4000,4,Tool and Die Makers
+51-4111,51-4110,5,Tool and Die Makers
+51-4120,51-4000,4,"Welding, Soldering, and Brazing Workers"
+51-4121,51-4120,5,"Welders, Cutters, Solderers, and Brazers"
+51-4122,51-4120,5,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+51-4190,51-4000,4,Miscellaneous Metal Workers and Plastic Workers
+51-4191,51-4190,5,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+51-4192,51-4190,5,"Layout Workers, Metal and Plastic"
+51-4193,51-4190,5,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4194,51-4190,5,"Tool Grinders, Filers, and Sharpeners"
+51-4199,51-4190,5,"Metal Workers and Plastic Workers, All Other"
+51-5100,51-0000,3,Printing Workers
+51-5110,51-5100,4,Printing Workers
+51-5111,51-5110,5,Prepress Technicians and Workers
+51-5112,51-5110,5,Printing Press Operators
+51-5113,51-5110,5,Print Binding and Finishing Workers
+51-6000,51-0000,3,"Textile, Apparel, and Furnishings Workers"
+51-6010,51-6000,4,Laundry and Dry-Cleaning Workers
+51-6011,51-6010,5,Laundry and Dry-Cleaning Workers
+51-6020,51-6000,4,"Pressers, Textile, Garment, and Related Materials"
+51-6021,51-6020,5,"Pressers, Textile, Garment, and Related Materials"
+51-6030,51-6000,4,Sewing Machine Operators
+51-6031,51-6030,5,Sewing Machine Operators
+51-6040,51-6000,4,Shoe and Leather Workers
+51-6041,51-6040,5,Shoe and Leather Workers and Repairers
+51-6042,51-6040,5,Shoe Machine Operators and Tenders
+51-6050,51-6000,4,"Tailors, Dressmakers, and Sewers"
+51-6051,51-6050,5,"Sewers, Hand"
+51-6052,51-6050,5,"Tailors, Dressmakers, and Custom Sewers"
+51-6060,51-6000,4,"Textile Machine Setters, Operators, and Tenders"
+51-6061,51-6060,5,Textile Bleaching and Dyeing Machine Operators and Tenders
+51-6062,51-6060,5,"Textile Cutting Machine Setters, Operators, and Tenders"
+51-6063,51-6060,5,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+51-6064,51-6060,5,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+51-6090,51-6000,4,"Miscellaneous Textile, Apparel, and Furnishings Workers"
+51-6091,51-6090,5,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+51-6092,51-6090,5,Fabric and Apparel Patternmakers
+51-6093,51-6090,5,Upholsterers
+51-6099,51-6090,5,"Textile, Apparel, and Furnishings Workers, All Other"
+51-7000,51-0000,3,Woodworkers
+51-7010,51-7000,4,Cabinetmakers and Bench Carpenters
+51-7011,51-7010,5,Cabinetmakers and Bench Carpenters
+51-7020,51-7000,4,Furniture Finishers
+51-7021,51-7020,5,Furniture Finishers
+51-7030,51-7000,4,"Model Makers and Patternmakers, Wood"
+51-7031,51-7030,5,"Model Makers, Wood"
+51-7032,51-7030,5,"Patternmakers, Wood"
+51-7040,51-7000,4,"Woodworking Machine Setters, Operators, and Tenders"
+51-7041,51-7040,5,"Sawing Machine Setters, Operators, and Tenders, Wood"
+51-7042,51-7040,5,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+51-7090,51-7000,4,Miscellaneous Woodworkers
+51-7099,51-7090,5,"Woodworkers, All Other"
+51-8000,51-0000,3,Plant and System Operators
+51-8010,51-8000,4,"Power Plant Operators, Distributors, and Dispatchers"
+51-8011,51-8010,5,Nuclear Power Reactor Operators
+51-8012,51-8010,5,Power Distributors and Dispatchers
+51-8013,51-8010,5,Power Plant Operators
+51-8020,51-8000,4,Stationary Engineers and Boiler Operators
+51-8021,51-8020,5,Stationary Engineers and Boiler Operators
+51-8030,51-8000,4,Water and Wastewater Treatment Plant and System Operators
+51-8031,51-8030,5,Water and Wastewater Treatment Plant and System Operators
+51-8090,51-8000,4,Miscellaneous Plant and System Operators
+51-8091,51-8090,5,Chemical Plant and System Operators
+51-8092,51-8090,5,Gas Plant Operators
+51-8093,51-8090,5,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+51-8099,51-8090,5,"Plant and System Operators, All Other"
+51-9000,51-0000,3,Other Production Occupations
+51-9010,51-9000,4,"Chemical Processing Machine Setters, Operators, and Tenders"
+51-9011,51-9010,5,Chemical Equipment Operators and Tenders
+51-9012,51-9010,5,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+51-9020,51-9000,4,"Crushing, Grinding, Polishing, Mixing, and Blending Workers"
+51-9021,51-9020,5,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+51-9022,51-9020,5,"Grinding and Polishing Workers, Hand"
+51-9023,51-9020,5,"Mixing and Blending Machine Setters, Operators, and Tenders"
+51-9030,51-9000,4,Cutting Workers
+51-9031,51-9030,5,"Cutters and Trimmers, Hand"
+51-9032,51-9030,5,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+51-9040,51-9000,4,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+51-9041,51-9040,5,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+51-9050,51-9000,4,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+51-9051,51-9050,5,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+51-9060,51-9000,4,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+51-9061,51-9060,5,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+51-9070,51-9000,4,Jewelers and Precious Stone and Metal Workers
+51-9071,51-9070,5,Jewelers and Precious Stone and Metal Workers
+51-9080,51-9000,4,"Medical, Dental, and Ophthalmic Laboratory Technicians"
+51-9081,51-9080,5,Dental Laboratory Technicians
+51-9082,51-9080,5,Medical Appliance Technicians
+51-9083,51-9080,5,Ophthalmic Laboratory Technicians
+51-9110,51-9000,4,Packaging and Filling Machine Operators and Tenders
+51-9111,51-9110,5,Packaging and Filling Machine Operators and Tenders
+51-9120,51-9000,4,Painting Workers
+51-9121,51-9120,5,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+51-9122,51-9120,5,"Painters, Transportation Equipment"
+51-9123,51-9120,5,"Painting, Coating, and Decorating Workers"
+51-9140,51-9000,4,Semiconductor Processors
+51-9141,51-9140,5,Semiconductor Processors
+51-9150,51-9000,4,Photographic Process Workers and Processing Machine Operators
+51-9151,51-9150,5,Photographic Process Workers and Processing Machine Operators
+51-9190,51-9000,4,Miscellaneous Production Workers
+51-9191,51-9190,5,Adhesive Bonding Machine Operators and Tenders
+51-9192,51-9190,5,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+51-9193,51-9190,5,Cooling and Freezing Equipment Operators and Tenders
+51-9194,51-9190,5,Etchers and Engravers
+51-9195,51-9190,5,"Molders, Shapers, and Casters, Except Metal and Plastic"
+51-9196,51-9190,5,"Paper Goods Machine Setters, Operators, and Tenders"
+51-9197,51-9190,5,Tire Builders
+51-9198,51-9190,5,Helpers--Production Workers
+51-9199,51-9190,5,"Production Workers, All Other"
+53-0000,00-0000,2,Transportation and Material Moving Occupations
+53-1000,53-0000,3,Supervisors of Transportation and Material Moving Workers
+53-1010,53-1000,4,Aircraft Cargo Handling Supervisors
+53-1011,53-1010,5,Aircraft Cargo Handling Supervisors
+53-1040,53-1000,4,"First-line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors"
+53-1048,53-1040,5,"First-line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors"
+53-2000,53-0000,3,Air Transportation Workers
+53-2010,53-2000,4,Aircraft Pilots and Flight Engineers
+53-2011,53-2010,5,"Airline Pilots, Copilots, and Flight Engineers"
+53-2012,53-2010,5,Commercial Pilots
+53-2020,53-2000,4,Air Traffic Controllers and Airfield Operations Specialists
+53-2021,53-2020,5,Air Traffic Controllers
+53-2022,53-2020,5,Airfield Operations Specialists
+53-2030,53-2000,4,Flight Attendants
+53-2031,53-2030,5,Flight Attendants
+53-3000,53-0000,3,Motor Vehicle Operators
+53-3010,53-3000,4,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+53-3011,53-3010,5,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+53-3020,53-3000,4,Bus Drivers
+53-3021,53-3020,5,"Bus Drivers, Transit and Intercity "
+53-3022,53-3020,5,"Bus Drivers, School or Special Client "
+53-3030,53-3000,4,Driver/Sales Workers and Truck Drivers
+53-3031,53-3030,5,Driver/Sales Workers
+53-3032,53-3030,5,Heavy and Tractor-Trailer Truck Drivers
+53-3033,53-3030,5,Light Truck or Delivery Services Drivers
+53-3040,53-3000,4,Taxi Drivers and Chauffeurs
+53-3041,53-3040,5,Taxi Drivers and Chauffeurs
+53-3090,53-3000,4,Miscellaneous Motor Vehicle Operators
+53-3099,53-3090,5,"Motor Vehicle Operators, All Other"
+53-4000,53-0000,3,Rail Transportation Workers
+53-4010,53-4000,4,Locomotive Engineers and Operators
+53-4011,53-4010,5,Locomotive Engineers
+53-4012,53-4010,5,Locomotive Firers
+53-4013,53-4010,5,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
+53-4020,53-4000,4,"Railroad Brake, Signal, and Switch Operators"
+53-4021,53-4020,5,"Railroad Brake, Signal, and Switch Operators"
+53-4030,53-4000,4,Railroad Conductors and Yardmasters
+53-4031,53-4030,5,Railroad Conductors and Yardmasters
+53-4040,53-4000,4,Subway and Streetcar Operators
+53-4041,53-4040,5,Subway and Streetcar Operators
+53-4090,53-4000,4,Miscellaneous Rail Transportation Workers
+53-4099,53-4090,5,"Rail Transportation Workers, All Other"
+53-5000,53-0000,3,Water Transportation Workers
+53-5010,53-5000,4,Sailors and Marine Oilers
+53-5011,53-5010,5,Sailors and Marine Oilers
+53-5020,53-5000,4,Ship and Boat Captains and Operators
+53-5021,53-5020,5,"Captains, Mates, and Pilots of Water Vessels"
+53-5022,53-5020,5,Motorboat Operators
+53-5030,53-5000,4,Ship Engineers
+53-5031,53-5030,5,Ship Engineers
+53-6000,53-0000,3,Other Transportation Workers
+53-6010,53-6000,4,Bridge and Lock Tenders
+53-6011,53-6010,5,Bridge and Lock Tenders
+53-6020,53-6000,4,Parking Lot Attendants
+53-6021,53-6020,5,Parking Lot Attendants
+53-6030,53-6000,4,Automotive and Watercraft Service Attendants
+53-6031,53-6030,5,Automotive and Watercraft Service Attendants
+53-6040,53-6000,4,Traffic Technicians
+53-6041,53-6040,5,Traffic Technicians
+53-6050,53-6000,4,Transportation Inspectors
+53-6051,53-6050,5,Transportation Inspectors
+53-6060,53-6000,4,"Transportation Attendants, Except Flight Attendants"
+53-6061,53-6060,5,"Transportation Attendants, Except Flight Attendants "
+53-6090,53-6000,4,Miscellaneous Transportation Workers
+53-6099,53-6090,5,"Transportation Workers, All Other"
+53-7000,53-0000,3,Material Moving Workers
+53-7010,53-7000,4,Conveyor Operators and Tenders
+53-7011,53-7010,5,Conveyor Operators and Tenders
+53-7020,53-7000,4,Crane and Tower Operators
+53-7021,53-7020,5,Crane and Tower Operators
+53-7030,53-7000,4,"Dredge, Excavating, and Loading Machine Operators"
+53-7031,53-7030,5,Dredge Operators
+53-7032,53-7030,5,Excavating and Loading Machine and Dragline Operators
+53-7033,53-7030,5,"Loading Machine Operators, Underground Mining"
+53-7040,53-7000,4,Hoist and Winch Operators
+53-7041,53-7040,5,Hoist and Winch Operators
+53-7050,53-7000,4,Industrial Truck and Tractor Operators
+53-7051,53-7050,5,Industrial Truck and Tractor Operators
+53-7060,53-7000,4,"Laborers and Material Movers, Hand"
+53-7061,53-7060,5,Cleaners of Vehicles and Equipment
+53-7062,53-7060,5,"Laborers and Freight, Stock, and Material Movers, Hand"
+53-7063,53-7060,5,Machine Feeders and Offbearers
+53-7064,53-7060,5,"Packers and Packagers, Hand"
+53-7070,53-7000,4,Pumping Station Operators
+53-7071,53-7070,5,Gas Compressor and Gas Pumping Station Operators
+53-7072,53-7070,5,"Pump Operators, Except Wellhead Pumpers"
+53-7073,53-7070,5,Wellhead Pumpers
+53-7080,53-7000,4,Refuse and Recyclable Material Collectors
+53-7081,53-7080,5,Refuse and Recyclable Material Collectors
+53-7110,53-7000,4,Mine Shuttle Car Operators
+53-7111,53-7110,5,Mine Shuttle Car Operators
+53-7120,53-7000,4,"Tank Car, Truck, and Ship Loaders"
+53-7121,53-7120,5,"Tank Car, Truck, and Ship Loaders"
+53-7190,53-7000,4,Miscellaneous Material Moving Workers
+53-7199,53-7190,5,"Material Moving Workers, All Other"
+55-0000,00-0000,2,Military-only occupations
+55-9000,55-0000,3,Military-only occupations
+55-9990,55-9000,4,Military-only occupations
+55-9999,55-9990,5,Military-only occupations
+99-0000,00-0000,2,Unclassified Occupation
+99-9000,99-0000,3,Unclassified Occupation
+99-9990,99-9000,4,Unclassified Occupation
+99-9999,99-9990,5,Unclassified Occupation
