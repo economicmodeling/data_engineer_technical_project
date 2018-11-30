@@ -47,7 +47,7 @@ The summary statistics your process must calculate are these:
 * Your solution must run on Debian Stretch (linux).
 * The output format should be a SQLite database. Summary stats may be printed to stdout, or documented as SQLite queries to be run on the output DB.
 * While the data sample is small enough to fit easily into memory, the implementation must be streaming, assuming much larger datasets.
-* Provide clear instructions for how to compile/run your code, along with any packages required that are not installed by default on Debian Stretch.
+* Provide clear instructions for how to compile/run your code, along with any required packages that are not installed by default on Debian Stretch.
 * If you find these requirements to be ambiguous, go with your best guess and document your decision.
 
 # Submission Process
